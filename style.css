@@ -147,7 +147,6 @@ header .head-r a:hover {
     color: white;
 }
 
-
 .show-case-img {
     width: 60%;
     border-radius: 15px;
@@ -170,7 +169,6 @@ header .head-r a:hover {
     margin-bottom: 10vh;
     border-radius: 15px;
 }
-
 
 .latest-news h2 {
     font-size: 40px;
@@ -201,7 +199,6 @@ header .head-r a:hover {
 .news-content .news-text p {
     margin-top: 5px;
 }
-
 
 .a-row,
 .b-row {
@@ -286,8 +283,6 @@ header .head-r a:hover {
 }
 
 /* Footer */
-
-
 .col {
     background-color: #e1e1e1;
     display: flex;
@@ -377,8 +372,6 @@ header .head-r a:hover {
     text-decoration: none;
     color: #222;
 }
-
-
 
 .footer-r ul {
     display: flex;
